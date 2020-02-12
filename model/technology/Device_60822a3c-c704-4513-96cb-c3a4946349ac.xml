@@ -1,0 +1,20 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Server"
+    id="60822a3c-c704-4513-96cb-c3a4946349ac">
+  <properties
+      key="icon"
+      value="/icons/linux-server-system-platform-os-computer-penguin-512.png"/>
+  <properties
+      key="icon size"
+      value="64x64"/>
+  <properties
+      key="label"
+      value="${property:device} - ${property:version} "/>
+  <properties
+      key="device"
+      value="Linux Server"/>
+  <properties
+      key="version"
+      value="RHE 7"/>
+</archimate:Device>
